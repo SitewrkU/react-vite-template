@@ -1,0 +1,12 @@
+{
+  "name": "react-vite-clear-template",
+  "version": "1.0.0",
+  "description": "Чистий React шаблон для Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": ["vite", "react", "template"],
+  "author": "Sitewku",
+  "license": "MIT"
+}
